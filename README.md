@@ -1,6 +1,6 @@
 # edgardOrtega.github.io
 
-links para la correccion:
+links para la corrección:
 
 proyecto colaborativo 1: https://github.com/vriquelmefe/vriquelmefe.github.io
 
